@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background-color: black;
+    color: red;
+    justify-content: center;
+    text-align: center;
+}
+.container{
+    margin: auto;
+    margin-top: 05%;
+    bottom: 40%;
+    left: 40%;
+    right: 40%;
+    font-size: 15px;
+
+
+}
+
+button{
+    border: 12px;
+    box-shadow: coral;
+    color: crimson;
+    width: 40px;
+    height: 35px;
+    margin-top: 12px;
+
+}
